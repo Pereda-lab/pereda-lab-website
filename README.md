@@ -5,6 +5,6 @@
 
   # Pereda-lab's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[pereda-lab.github.io/pereda-lab-website](https://pereda-lab.github.io/pereda-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
